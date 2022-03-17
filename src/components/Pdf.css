@@ -4,7 +4,5 @@
 
 .ok {
   background-color: lightblue;
-  overflow-y: hidden;
-  overflow-x: hidden;
-  /* overflow: hidden; */
+  overflow: hidden;
 }
